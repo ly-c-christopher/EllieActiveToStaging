@@ -1,0 +1,5 @@
+cred.ini
+.idea/
+__pycache__/
+venv/
+themes/
